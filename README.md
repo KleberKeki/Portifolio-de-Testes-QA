@@ -15,8 +15,7 @@ Este portfólio é uma coleção dos meus projetos de testes — manuais e autom
 
 - 💻 **Web (Cypress)**
   - 🔗 [Automação com Cypress - projeto exemplo](https://github.com/KleberKeki/cypress-tests)
-- 📡 **API (REST Assured / Postman)**
-  - 🔗 [Testes com Selenium](https://github.com/KleberKeki/selenium-tests)
+
 
 
 
@@ -26,7 +25,6 @@ Este portfólio é uma coleção dos meus projetos de testes — manuais e autom
 
 - Testes funcionais manuais (casos de teste, planos de teste, critérios de aceite)
 - Automação de testes Web (Cypress)
-- Automaçao de testes web (Selenum)
 - Integração contínua com GitHub Actions
 - Uso de boas práticas em QA e versionamento com Git
 
