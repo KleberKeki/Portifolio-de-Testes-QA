@@ -9,7 +9,7 @@ Este portfólio é uma coleção dos meus projetos de testes — manuais e autom
 ## 📁 Repositórios por tipo de teste
 
 ### ✅ Testes Manuais
-- 📋 [Casos de teste, critérios de aceite e mapa mental](https://github.com/KleberKeki/testes-manuais)
+- 📋 [Casos de teste, critérios de aceite](https://github.com/KleberKeki/testes-manuais)
 
 ### 🧪 Testes Automatizados
 
