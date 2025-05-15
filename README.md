@@ -9,18 +9,16 @@ Este portfólio é uma coleção dos meus projetos de testes — manuais e autom
 ## 📁 Repositórios por tipo de teste
 
 ### ✅ Testes Manuais
-- 📋 [Casos de teste, critérios de aceite e mapa mental](https://github.com/seuusuario/testes-manuais)
+- 📋 [Casos de teste, critérios de aceite e mapa mental](https://github.com/KleberKeki/testes-manuais)
 
 ### 🧪 Testes Automatizados
 
 - 💻 **Web (Cypress)**
-  - 🔗 [Automação com Cypress - projeto exemplo](https://github.com/seuusuario/cypress-tests)
+  - 🔗 [Automação com Cypress - projeto exemplo](https://github.com/KleberKeki/cypress-tests)
 - 📡 **API (REST Assured / Postman)**
-  - 🔗 [REST Assured + JUnit - testes de API](https://github.com/seuusuario/restassured-api-tests)
-  - 🔗 [Coleções Postman + Newman](https://github.com/seuusuario/postman-tests)
+  - 🔗 [Testes com Selenium](https://github.com/KleberKeki/selenium-tests)
 
-### 🚀 Testes de Performance
-- 📊 [Scripts com JMeter](https://github.com/seuusuario/jmeter-performance)
+
 
 ---
 
@@ -28,8 +26,7 @@ Este portfólio é uma coleção dos meus projetos de testes — manuais e autom
 
 - Testes funcionais manuais (casos de teste, planos de teste, critérios de aceite)
 - Automação de testes Web (Cypress)
-- Automação de testes de API (REST Assured + Java, Postman)
-- Testes de performance (JMeter)
+- Automaçao de testes web (Selenum)
 - Integração contínua com GitHub Actions
 - Uso de boas práticas em QA e versionamento com Git
 
