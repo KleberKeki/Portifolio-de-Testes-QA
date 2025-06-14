@@ -13,9 +13,11 @@ Este portfólio é uma coleção dos meus projetos de testes — manuais e autom
 
 ### 🧪 Testes Automatizados
 
-- 💻 **Web (Cypress)**
-  - 🔗 [Automação com Cypress - projeto exemplo](https://github.com/KleberKeki/cypress-tests)
+- 💻 **Web (Cypress)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - 🔗 [Automação com Cypress](https://github.com/KleberKeki/cypress-tests) 
 
+- 💻 **Web (Selenium)** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  - 🔗 [Automação com Selenium ](https://github.com/KleberKeki/selenium-tests) 
 
 
 
